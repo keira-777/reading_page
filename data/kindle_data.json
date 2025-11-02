@@ -519,15 +519,16 @@
     "2025-10-28",
     "2025-10-29",
     "2025-10-30",
-    "2025-10-31"
+    "2025-10-31",
+    "2025-11-01"
   ],
   "current_daily_streak": {
-    "duration": 11,
+    "duration": 12,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-10-31T07:00:00.000Z",
+    "utcEndTime": "2025-11-01T07:00:00.000Z",
     "start": "2025-10-21T00:00:00.000Z",
-    "end": "2025-10-31T00:00:00.000Z",
-    "ttl": 1762007822
+    "end": "2025-11-01T00:00:00.000Z",
+    "ttl": 1762090446
   },
   "longest_daily_streak": {
     "duration": 46,
@@ -539,17 +540,17 @@
   "current_weekly_streak": {
     "duration": 24,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-10-31T07:00:00.000Z",
+    "utcEndTime": "2025-11-01T07:00:00.000Z",
     "start": "2025-05-19T00:00:00.000Z",
-    "end": "2025-10-31T00:00:00.000Z",
-    "ttl": 1762007822
+    "end": "2025-11-01T00:00:00.000Z",
+    "ttl": 1762090446
   },
   "longest_weekly_streak": {
     "duration": 24,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-10-31T07:00:00.000Z",
+    "utcEndTime": "2025-11-01T07:00:00.000Z",
     "start": "2025-05-19T00:00:00.000Z",
-    "end": "2025-10-31T00:00:00.000Z"
+    "end": "2025-11-01T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
@@ -1273,16 +1274,16 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 60,
+    "daysLeftInCurrentChallenge": 59,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 7,
+    "totalEarnedAchievements": 8,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_FallColors_be425e7f-c718-448c-87af-e6bfcff28140.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectWeek_2f44a5ab-bd98-3e84-8228-ff7fa34d6a8b.png",
         "quantity": 1,
-        "title": "Fall Colors",
+        "title": "Perfect Week",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_d1885062-9926-390f-bc57-5e95018fe6ea.png",
