@@ -520,15 +520,16 @@
     "2025-10-29",
     "2025-10-30",
     "2025-10-31",
-    "2025-11-01"
+    "2025-11-01",
+    "2025-11-02"
   ],
   "current_daily_streak": {
-    "duration": 12,
+    "duration": 13,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-01T07:00:00.000Z",
+    "utcEndTime": "2025-11-02T07:00:00.000Z",
     "start": "2025-10-21T00:00:00.000Z",
-    "end": "2025-11-01T00:00:00.000Z",
-    "ttl": 1762093919
+    "end": "2025-11-02T00:00:00.000Z",
+    "ttl": 1762177707
   },
   "longest_daily_streak": {
     "duration": 46,
@@ -538,19 +539,19 @@
     "end": "2023-07-23T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 24,
+    "duration": 25,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-01T07:00:00.000Z",
+    "utcEndTime": "2025-11-02T07:00:00.000Z",
     "start": "2025-05-19T00:00:00.000Z",
-    "end": "2025-11-01T00:00:00.000Z",
-    "ttl": 1762093919
+    "end": "2025-11-02T00:00:00.000Z",
+    "ttl": 1762177707
   },
   "longest_weekly_streak": {
-    "duration": 24,
+    "duration": 25,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-01T07:00:00.000Z",
+    "utcEndTime": "2025-11-02T07:00:00.000Z",
     "start": "2025-05-19T00:00:00.000Z",
-    "end": "2025-11-01T00:00:00.000Z"
+    "end": "2025-11-02T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
@@ -572,6 +573,22 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "95B671443F6445B1A91547F9E9743E88",
+        "read_event_id": "dd49a9ea-f2cf-47ef-9d1b-903c98a0fd87",
+        "date_read": "2025-11-02T21:42:34-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "144947960X",
+        "read_event_id": "53f6a369-e8b1-42ae-9eac-462b3414d45c",
+        "date_read": "2025-11-02T00:00:00.000Z",
+        "content_type": "EBOK",
+        "source_origin": "GOODREADS",
+        "book_uri": "kca://book/amzn1.gr.book.v1.XtpxCMOG-giFingWTNIFhA"
+      },
       {
         "asin": "B0D2WZM14M",
         "read_event_id": "8958ebcd-064d-4601-a0a6-59213c5dc48f",
@@ -1274,7 +1291,7 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 59,
+    "daysLeftInCurrentChallenge": 58,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 8,
     "achievementsDisplayAttributes": [
