@@ -546,15 +546,16 @@
     "2025-11-25",
     "2025-11-26",
     "2025-11-27",
-    "2025-11-28"
+    "2025-11-28",
+    "2025-11-29"
   ],
   "current_daily_streak": {
-    "duration": 19,
+    "duration": 20,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-28T08:00:00.000Z",
+    "utcEndTime": "2025-11-29T08:00:00.000Z",
     "start": "2025-11-10T00:00:00.000Z",
-    "end": "2025-11-28T00:00:00.000Z",
-    "ttl": 1764340808
+    "end": "2025-11-29T00:00:00.000Z",
+    "ttl": 1764423595
   },
   "longest_daily_streak": {
     "duration": 46,
@@ -566,17 +567,17 @@
   "current_weekly_streak": {
     "duration": 28,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-28T08:00:00.000Z",
+    "utcEndTime": "2025-11-29T08:00:00.000Z",
     "start": "2025-05-19T00:00:00.000Z",
-    "end": "2025-11-28T00:00:00.000Z",
-    "ttl": 1764340808
+    "end": "2025-11-29T00:00:00.000Z",
+    "ttl": 1764423596
   },
   "longest_weekly_streak": {
     "duration": 28,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-28T08:00:00.000Z",
+    "utcEndTime": "2025-11-29T08:00:00.000Z",
     "start": "2025-05-19T00:00:00.000Z",
-    "end": "2025-11-28T00:00:00.000Z"
+    "end": "2025-11-29T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
@@ -1380,16 +1381,16 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 33,
-    "totalAvailableAchievements": 16,
+    "daysLeftInCurrentChallenge": 32,
+    "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 11,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Scarecrow_4503788b-f3f0-4bb7-86ed-9ae408899938.png",
-        "quantity": 1,
-        "title": "Scarecrow",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectWeek_2f44a5ab-bd98-3e84-8228-ff7fa34d6a8b.png",
+        "quantity": 4,
+        "title": "Perfect Week",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_d1885062-9926-390f-bc57-5e95018fe6ea.png",
