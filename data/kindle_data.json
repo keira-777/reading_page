@@ -557,7 +557,7 @@
     "utcEndTime": "2025-12-01T08:00:00.000Z",
     "start": "2025-11-10T00:00:00.000Z",
     "end": "2025-12-01T00:00:00.000Z",
-    "ttl": 1764598553
+    "ttl": 1764682552
   },
   "longest_daily_streak": {
     "duration": 46,
@@ -572,7 +572,7 @@
     "utcEndTime": "2025-12-01T08:00:00.000Z",
     "start": "2025-05-19T00:00:00.000Z",
     "end": "2025-12-01T00:00:00.000Z",
-    "ttl": 1764598553
+    "ttl": 1764682552
   },
   "longest_weekly_streak": {
     "duration": 29,
@@ -601,6 +601,22 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "8FFF2512DD714AD68E8E31E9024CEF10",
+        "read_event_id": "07c44a5b-5fed-4657-bb77-19a93ab0d1ea",
+        "date_read": "2025-12-01T19:29:09-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "19FC9B317D2F4F32A4F9869DD5925A0F",
+        "read_event_id": "969fe7e9-6a8f-446b-8176-54e0bf8ab2d0",
+        "date_read": "2025-12-01T18:25:06-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "0544968840",
         "read_event_id": "fc0cfede-d3ca-4484-a2d0-cdbda79953dd",
@@ -1382,17 +1398,18 @@
   },
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
+  "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 30,
+    "daysLeftInCurrentChallenge": 29,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 11,
+    "totalEarnedAchievements": 12,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_HeadStart_09b4f501-d681-35c1-a3b9-5daf29329383.png",
-        "quantity": 3,
-        "title": "Head Start",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Trendsetter_b4eaf405-2b34-4f34-b8b0-bee54a0ac60b.png",
+        "quantity": 1,
+        "title": "Trendsetter",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_d1885062-9926-390f-bc57-5e95018fe6ea.png",
@@ -1409,10 +1426,10 @@
         "hasLevel": true
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Trendsetter_711961cd-7ba9-4560-82e4-8098325a23fc.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_WinterVacation_c8fd3f82-ac7c-4a44-b4b5-332c12baccba.png",
         "quantity": 0,
-        "title": "Trendsetter",
-        "isUnrevealedMysteryAchievement": false,
+        "title": "Mystery",
+        "isUnrevealedMysteryAchievement": true,
         "hasLevel": false
       }
     ]
