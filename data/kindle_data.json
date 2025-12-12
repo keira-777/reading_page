@@ -558,15 +558,16 @@
     "2025-12-07",
     "2025-12-08",
     "2025-12-10",
-    "2025-12-11"
+    "2025-12-11",
+    "2025-12-12"
   ],
   "current_daily_streak": {
-    "duration": 2,
+    "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-11T08:00:00.000Z",
+    "utcEndTime": "2025-12-12T08:00:00.000Z",
     "start": "2025-12-10T00:00:00.000Z",
-    "end": "2025-12-11T00:00:00.000Z",
-    "ttl": 1765462702
+    "end": "2025-12-12T00:00:00.000Z",
+    "ttl": 1765546431
   },
   "longest_daily_streak": {
     "duration": 46,
@@ -578,17 +579,17 @@
   "current_weekly_streak": {
     "duration": 30,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-11T08:00:00.000Z",
+    "utcEndTime": "2025-12-12T08:00:00.000Z",
     "start": "2025-05-19T00:00:00.000Z",
-    "end": "2025-12-11T00:00:00.000Z",
-    "ttl": 1765462702
+    "end": "2025-12-12T00:00:00.000Z",
+    "ttl": 1765546431
   },
   "longest_weekly_streak": {
     "duration": 30,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-11T08:00:00.000Z",
+    "utcEndTime": "2025-12-12T08:00:00.000Z",
     "start": "2025-05-19T00:00:00.000Z",
-    "end": "2025-12-11T00:00:00.000Z"
+    "end": "2025-12-12T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
@@ -610,6 +611,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "7E361860035D4AE99B2F31363D6E5CEB",
+        "read_event_id": "7c3d7316-3af2-49ce-bc3d-658cea35696a",
+        "date_read": "2025-12-11T20:08:41-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "97B5DB350521432198B7105B9766B05D",
         "read_event_id": "83b7931d-d4c7-4b41-b7c1-e66412da4fad",
@@ -1417,7 +1426,7 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 20,
+    "daysLeftInCurrentChallenge": 19,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 12,
     "achievementsDisplayAttributes": [
