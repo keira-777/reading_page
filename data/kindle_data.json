@@ -560,15 +560,17 @@
     "2025-12-10",
     "2025-12-11",
     "2025-12-12",
-    "2025-12-13"
+    "2025-12-13",
+    "2025-12-14",
+    "2025-12-15"
   ],
   "current_daily_streak": {
-    "duration": 4,
+    "duration": 6,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-13T08:00:00.000Z",
+    "utcEndTime": "2025-12-15T08:00:00.000Z",
     "start": "2025-12-10T00:00:00.000Z",
-    "end": "2025-12-13T00:00:00.000Z",
-    "ttl": 1765721593
+    "end": "2025-12-15T00:00:00.000Z",
+    "ttl": 1765805995
   },
   "longest_daily_streak": {
     "duration": 46,
@@ -578,19 +580,19 @@
     "end": "2023-07-23T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 30,
+    "duration": 31,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-13T08:00:00.000Z",
+    "utcEndTime": "2025-12-15T08:00:00.000Z",
     "start": "2025-05-19T00:00:00.000Z",
-    "end": "2025-12-13T00:00:00.000Z",
-    "ttl": 1765721593
+    "end": "2025-12-15T00:00:00.000Z",
+    "ttl": 1765805995
   },
   "longest_weekly_streak": {
-    "duration": 30,
+    "duration": 31,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-13T08:00:00.000Z",
+    "utcEndTime": "2025-12-15T08:00:00.000Z",
     "start": "2025-05-19T00:00:00.000Z",
-    "end": "2025-12-13T00:00:00.000Z"
+    "end": "2025-12-15T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
@@ -612,6 +614,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "B0D7LQMF4N",
+        "read_event_id": "8c69a36b-5391-4d4d-8333-5545b25dad61",
+        "date_read": "2025-12-15T00:00:00.000Z",
+        "content_type": "EBOK",
+        "source_origin": "GOODREADS",
+        "book_uri": "kca://book/amzn1.gr.book.v1.OPL1L19jvyFEvtyxeIp2CQ"
+      },
       {
         "asin": "E02591FBD5DD40FC87BFC4462AB7C847",
         "read_event_id": "a7dfaa45-81b9-4bc1-b655-e7da48fff54c",
@@ -1435,7 +1445,7 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 17,
+    "daysLeftInCurrentChallenge": 16,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 12,
     "achievementsDisplayAttributes": [
